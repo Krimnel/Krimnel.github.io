@@ -1,0 +1,159 @@
+.container{
+	margin: 0 auto;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+.body{
+padding: 20px;
+	}
+.navfigur{
+	display:flex;
+	margin: 0 auto;
+	width:40%;
+	height:40px;
+	background: #D9D9D9;
+	border-radius: 30px;
+	align-items: center;
+	justify-content: space-around;
+}
+.glav{
+	top:100px;
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+	
+	
+}
+.war{
+	border-left: 20%; 
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+}
+.gra{
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+	
+}
+.button:hover {
+	background:#379AB4;
+	transition: 0.7s;
+}
+
+.su24mpr{
+position: absolute;
+width: 728px;
+height: 111.09px;
+top: 327px;
+	left: 406px;
+cursor:pointer;
+background: #D9D9D9;
+border-radius: 60px;
+}
+.su24mimg{
+	position: absolute;
+width: 155.02px;
+height: 109.41px;
+left: 400px;
+top: 328.68px;
+
+background: url(su-24m.jpg);
+border-radius: 60px;
+}
+.su24mtext{
+	position: absolute;
+width: 252px;
+height: 49px;
+left: 604px;
+top: 310px;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+}
+.mig31pr{
+	position: absolute;
+width: 733.94px;
+height: 112px;
+left: 400px;
+top: 483px;
+cursor:pointer;
+background: #D9D9D9;
+border-radius: 60px;
+}
+
+.mig31img{
+	position: absolute;
+width: 155.27px;
+height: 112px;
+left: 400px;
+top: 483px;
+background: url(mig-31.jpg);
+border-radius: 60px;
+}
+.mig31text{
+	position: absolute;
+width: 238px;
+height: 49px;
+left: 608px;
+top: 462px;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
+}
+
+.su27pr {
+	position: absolute;
+width: 728px;
+height: 111.39px;
+left: 406px;
+top: 657px;
+cursor:pointer;
+background: #D9D9D9;
+border-radius: 60px;
+}
+
+.su27img{
+	position: absolute;
+width: 158.22px;
+height: 112.24px;
+left: 406px;
+top: 657px;
+border-radius: 60px;
+}
+.su27text{
+	position: absolute;
+width: 206px;
+height: 49px;
+left: 614px;
+top: 634px;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+z-index: 1;
+color: #000000;
+}
+.h1{
+	text-align: center;
+	margin:  90px auto;
+	
+}

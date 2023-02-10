@@ -1,0 +1,118 @@
+
+.body{
+padding: 20px;
+	margin-bottom: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.container{
+	position: absolute;
+	margin: 0 auto;
+}
+
+
+TABLE {
+    width: 300px; /* Ширина таблицы */
+    border-top: 2px solid #000; /* Линия сверху таблицы */
+    border-bottom: 2px solid #000; /* Линия внизу таблицы */
+	position: absolute;
+width: 300px;
+height: 936px;
+left: 210px;
+top: 202px;
+	background: #4F76B8
+   }
+   TD, TH {
+    padding: 3px; /* Поля вокруг содержимого ячеек */
+	   border: 3px solid
+   }
+   TH {
+    text-align: left; /* Выравнивание текста по левому краю */
+    border-bottom: 1px solid #000; /* Линия под верхним заголовком */
+   }
+
+.img1{
+	position: absolute;
+width: 395px;
+height: 245px;
+left: 720px;
+top: 202px;
+border-radius: 60px;
+}
+
+.img2{
+	position: absolute;
+width: 395px;
+height: 245px;
+left: 720px;
+top: 503px;
+border-radius: 60px;
+}
+
+.img3{
+	position: absolute;
+width: 396px;
+height: 223px;
+left: 719px;
+top: 805px;
+border-radius: 60px;
+}
+.img4{
+position: absolute;
+width: 396px;
+height: 223px;
+left: 719px;
+top: 1107px;
+border-radius: 60px
+	
+}
+.h{
+	position: absolute;
+	left: 265px;
+	top: 100px;
+	text-align: center;
+}
+.navfigur{
+	display:flex;
+	margin: 0 auto;
+	width:40%;
+	height:40px;
+	background: #D9D9D9;
+	border-radius: 30px;
+	align-items: center;
+	justify-content: space-around;
+}
+.glav{
+	top:100px;
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+	
+	
+}
+.war{
+	border-left: 20%; 
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+}
+.gra{
+	font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+	text-decoration: none;
+	
+}
